@@ -123,7 +123,7 @@ ul {
 
 @media screen and (max-width:780px) {
     .welcome {
-        font-size: 80px;
+        font-size: 100%;
     }
     .paragraph {
         flex-direction: column;
