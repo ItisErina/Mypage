@@ -144,5 +144,8 @@ ul {
     #myfaves {
         font-size: 40px;
     }
+    .people p {
+        margin-bottom: 50px;
+    }
 
 }
